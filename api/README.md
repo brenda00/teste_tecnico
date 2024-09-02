@@ -31,7 +31,6 @@ cd star-wars-api
 3. Crie um ambiente virtual (opcional, mas recomendado):
 ```bash
 python -m venv venv
-source venv/bin/activate   # No Windows: venv\Scripts\activate
 ```
 
 4. Instale as dependências necessárias:
