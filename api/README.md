@@ -50,7 +50,7 @@ python app.py
 
 3. O servidor Flask será iniciado no endereço http://127.0.0.1:5000. Por padrão deixei para abrir automaticamente no endpoint /hottest_planet, você consegue acessar os demais endpoints assim: http://127.0.0.1:5000/appears_most e http://127.0.0.1:5000/fastest_ships. Ao executar o projeto com sucesso você vai ter uma visão como a do print abaixo.
 
-![retorno do endpoint hottest_planet](image.png)
+![retorno do endpoint hottest_planet](img/image.png)
 
 ## Testes
 O projeto inclui testes para garantir o funcionamento correto das rotas e do banco de dados.
