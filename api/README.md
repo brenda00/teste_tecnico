@@ -67,7 +67,7 @@ O projeto inclui testes para garantir o funcionamento correto das rotas e do ban
 3. Para executar o teste utilize:  
 
     ```bash
-    python test_models.py
+    python teste_models.py
     python test_database.py
     python test_routes.py
     ```
