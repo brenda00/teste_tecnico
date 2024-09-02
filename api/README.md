@@ -48,7 +48,13 @@ pip install -r requirements.txt
 python app.py
 ```
 
-3. O servidor Flask será iniciado no endereço http://127.0.0.1:5000. Por padrão deixei para abrir automaticamente no endpoint /hottest_planet, você consegue acessar os demais endpoints assim: http://127.0.0.1:5000/appears_most e http://127.0.0.1:5000/fastest_ships. Ao executar o projeto com sucesso você vai ter uma visão como a do print abaixo.
+3. O servidor Flask será iniciado no endereço http://127.0.0.1:5000. Por padrão deixei para abrir automaticamente no endpoint /hottest_planet. Ao executar o projeto com sucesso você vai ter uma visão como a do print abaixo.
+
+1. http://127.0.0.1:5000/hottest_planet = Retorna os 3 planetas mais questes do universo.
+2. http://127.0.0.1:5000/appears_most = Retorna os 5 personagens que mais aparecem nos filmes.
+3. http://127.0.0.1:5000/fastest_ships = Retorna as 3 naves mais rápidas.
+
+
 
 ![retorno do endpoint hottest_planet](img/image.png)
 
