@@ -25,12 +25,13 @@ Antes de executar o projeto, você precisa instalar as dependências.
 1. Clone o repositório para o seu ambiente local:
 ```bash
 git clone https://github.com/brenda00/teste_tecnico.git
-cd star-wars-api
+cd api
 ```
 
 3. Crie um ambiente virtual (opcional, mas recomendado):
 ```bash
 python -m venv venv
+venv\Scripts\activate
 ```
 
 4. Instale as dependências necessárias:
