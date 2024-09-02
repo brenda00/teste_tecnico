@@ -67,8 +67,9 @@ O projeto inclui testes para garantir o funcionamento correto das rotas e do ban
 3. Para executar o teste utilize:  
 
     ```bash
-    python -m unittest test_models.py
-    python -m unittest test_database.py
+    python test_models.py
+    python test_database.py
+    python test_routes.py
     ```
 4. Ao executar o teste com sucesso você deve receber um retorno como esse:
 ![image](https://github.com/user-attachments/assets/6e770cfb-5c34-4303-a9f7-c78d08881c2d)
